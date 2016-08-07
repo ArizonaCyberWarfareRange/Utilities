@@ -36,7 +36,7 @@ def GetNewNodeID():
 
 
 #Open the Database and get the device settings
-db = MySQLdb.connect("71.216.236.10", "root", "ncr1pt", "azcwr")
+db = MySQLdb.connect("71.216.236.10", "root", "password", "dbnamer")
 db.autocommit(True)
 cursor = db.cursor()
 curupd = db.cursor()
