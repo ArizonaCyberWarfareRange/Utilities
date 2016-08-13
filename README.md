@@ -1,3 +1,3 @@
 # Utilities
 
-More often than not we did not write these utilities, but they are very useful.
+General collection of simple abd public utilities.
